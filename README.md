@@ -1,4 +1,4 @@
-# SimpleWebSite
+# SimpleWebSite_Database
 語言：HTML, PHP, CSS, MySQL  
 大二的資料庫課程要使用XAMPP建立網頁伺服器，並寫個網頁對資料庫進行新增、修改、刪除  
   
